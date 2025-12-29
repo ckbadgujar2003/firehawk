@@ -31,7 +31,7 @@ This system is built to support disaster management, surveillance, and intellige
 ## 📂 Directory Structure
 
 ```
-forest-fire-uav-project/
+firehawk/
 ├── data/                      # Dataset CSVs for fire risk
 ├── env/                      # Custom OpenAI Gym environments
 ├── fire_prediction/          # XGBoost model & dataset generation
